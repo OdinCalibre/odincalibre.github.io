@@ -1,0 +1,396 @@
+/* THIS IS THE START OF NEW NAVIGATION */
+
+body {
+    margin: 0px !important;
+    background-color: #FFFFFF !important;
+}
+
+#main {
+    margin: 0px !important;
+    width: 100vw !important;
+    position: static !important;
+}
+
+.header-main {
+    padding: 0px !important;
+    display: none;
+}
+
+.navigation-main {
+    float: none !important;
+    width: 100% !important;
+    min-width: 900px !important;
+    min-height: 0px !important;
+    background-color: #C9C9C9;
+}
+
+#intramain {
+    background: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+#Navheader {
+    position: static !important;
+    height: 100px;
+    padding: 0px !important;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+#intra_change {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 100% !important;
+    height: 90px !important;
+    background-color: #287BA4 !important;
+    border-bottom: 5px solid #D50032;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.intrabanner {
+    display: inline !important;
+    float: revert !important;
+    vertical-align: revert !important;
+    width: revert !important;
+    height: revert !important;
+    background-repeat: revert !important;
+    background-color: #287BA4 !important;
+    color: revert !important;
+    padding: 0px !important;
+}
+
+.intrabanner a {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 1.25em;
+    color: #FFFFFF;
+    font-family: Oswald-Bold;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+}
+
+.intrabanner a:hover {
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 1.25em;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Oswald-Bold;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    border-top: 5px solid #D50032;
+}
+
+
+/* THIS IS THE END OF NEW NAVIGATION */
+
+
+/* THIS IS THE START OF NEW BODY */
+
+#body-main {
+    float: revert !important;
+    min-height: revert !important;
+    margin: 0px auto 0px auto;
+    padding: revert !important;
+    border: revert !important;
+}
+
+.r-cont-holder {
+    border: none !important;
+}
+
+#body-main #ajaxFormName h3 {
+    display: none;
+}
+
+#ajaxFormName ul {
+    margin: revert !important;
+}
+
+#ajaxFormName ul li {
+    margin: 5px !important;
+}
+
+#ajaxFormName ul li:nth-child(odd) {
+    background-color: #FAFAFA;
+}
+
+
+/* THIS IS THE END OF NEW BODY */
+
+
+/* THIS IS THE START OF BUTTON STYLES */
+
+#IntraSubmit {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #287BA4;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#IntraSubmit:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #002D7A;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#Back {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #287BA4;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#Back:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #002D7A;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#Submit {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #287BA4;
+    color: white;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#Submit:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #002D7A;
+    color: white;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: Oswald-Bold;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#copyButton {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #287BA4;
+    color: white;
+    margin-top: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+#copyButton:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #002D7A;
+    color: white;
+    margin-top: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+#copyButton:active {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: grey;
+    color: white;
+    margin-top: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+#emailButton {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #287BA4;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+#emailButton:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: #002D7A;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+#emailButton:active {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 0.125em;
+    border: none;
+    background-color: grey;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Oswald-Bold;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .05em;
+    cursor: pointer;
+}
+
+
+/* THIS IS THE END OF BUTTON STYLES */
+
+
+/* START OF REMOVE OTHER/FOOTER STYLES */
+
+.overlay-container {
+    display: none !important;
+}
+
+.payment-container {
+    display: none !important;
+}
+
+.passcode-overlay-container {
+    display: none !important;
+}
+
+#footer-main {
+    display: none !important;
+}
+
+
+/* END OF REMOVE OTHER/FOOTER STYLES */
+
+
+/* THIS IS THE START OF ASIDE STYLES */
+
+aside {
+    position: absolute;
+    right: 50px;
+    top: 125px;
+    background-image: none;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 400px;
+    padding: 10px;
+}
+
+aside h2 {
+    font-family: Oswald-Bold;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: #287BA4;
+}
+
+aside p {
+    border: 1px solid black;
+    background-color: white;
+    font-family: Courier;
+    padding: 5px;
+    color: black;
+}
+
+li .caution {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: .75em;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 300px;
+}
+
+li .warning {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: .75em;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 300px;
+}
+
+aside label {
+    margin-right: 5px;
+    text-align: center;
+    letter-spacing: .05em;
+    font-family: Oswald-Bold;
+    color: #002D7A;
+}
+
+
+/* THIS IS THE END OF ASIDE STYLES */
