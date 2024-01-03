@@ -1,4 +1,5 @@
 // On page load actions.
+// On page load actions.
 // Assigns request type based on main <h3> header.
 var requestType = $('#ajaxFormName h3').text().trim();
 
